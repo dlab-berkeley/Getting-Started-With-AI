@@ -13,15 +13,15 @@ Check out D-Lab’s [Workshop Catalog](https://dlab-berkeley.github.io/dlab-work
 
 ## Workshop Goals
 
-This introductory workshop will teach you how to navigate today's AI landscape from the ground up through clear explanations, hands-on demonstrations, and practical examples. You will learn what AI assistants are and how to interact effectively with major platforms like ChatGPT, Claude, Gemini, and Perplexity. We'll explore creative AI tools for image and video generation, review specialized AI applications for everyday tasks, and help you develop a framework for choosing the right tools for your specific needs. The session includes live demonstrations comparing different AI platforms, guidance on free versus paid options, and essential safety considerations for responsible AI use.
+This introductory workshop will give an overview of today's AI landscape assuming no experience whatsoever, focusing on hands-on demos and practical examples. You will learn what AI assistants are and how to interact effectively with the major platforms like ChatGPT, Claude, Gemini, and Perplexity. We'll explore creative AI tools for image and video generation, review specialized AI applications for everyday tasks, and help you develop a framework for choosing the right tools for your specific needs. 
 
 ## Learning Objectives
 
 After completing this workshop, you will be able to:
 
-* **Understand and interact with major AI assistants** including ChatGPT, Claude, Gemini, and Perplexity, recognizing their unique strengths and optimal use cases for writing, research, and problem-solving.
+* **Understand and interact with major AI assistants** including ChatGPT, Claude, Gemini, and Perplexity, recognizing their strengths and use cases for writing, research, and problem-solving.
 * **Generate images using AI tools** like DALL-E, Midjourney, and NanoBanana by writing effective prompts, understanding the basics of image generation, and selecting the appropriate tool for your creative needs.
-* **Apply specialized AI tools to streamline daily tasks,** including Grammarly for writing improvement, Notion AI for workspace enhancement, Otter.ai for meeting transcription, and office suite integrations like Microsoft Copilot and Google Duet.
+* **Apply specialized AI tools to streamline daily tasks,** including Grammarly for writing improvement, NotebookLM for notetake, Notion AI for workspace enhancement, Otter.ai for meeting transcription, and office suite integrations like Microsoft Copilot and Google Duet.
 * **Evaluate and choose appropriate AI tools** based on your specific needs, budget constraints, privacy requirements, and existing technology ecosystem, understanding the differences between free and paid tiers.
 * **Write effective prompts and iterate on AI responses** using best practices for specificity, context, and refinement to achieve better results from any AI platform.
 * **Navigate AI tools safely and responsibly,** understanding privacy considerations, data retention policies, and how to verify AI-generated information for accuracy.
@@ -57,4 +57,5 @@ date on D-Lab events, services, and opportunities.
 
 * Bruno Cittolin Smaniotto
 * Tom van Nuenen
+
 
