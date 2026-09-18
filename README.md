@@ -1,7 +1,7 @@
 # D-Lab Getting Started with AI Workshop
 
 [![Open Workshop](https://img.shields.io/badge/open-materials%20-blue)](https://drive.google.com/drive/folders/1hH3WEmh5tndU6M5m0dx8Q5mUFCYN6g37?usp=sharing)
-[![Open Slides](https://img.shields.io/badge/open-slides%20-purple)](https://docs.google.com/presentation/d/1bz2kAcLnoizIUlyyHU5t6Cn-XnwsHj8DYQOdgMGBQeg/edit?usp=sharing)
+[![Open Slides](https://img.shields.io/badge/open-slides%20-purple)](https://docs.google.com/presentation/d/17NzoeNkVfrFFU3Sq-uqpmb0OKMjsQ-FoL4D3BBh6xEY/edit?usp=sharing)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 
 This repository contains the materials for D-Lab's Getting Started with AI Workshop.
