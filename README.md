@@ -56,5 +56,7 @@ date on D-Lab events, services, and opportunities.
 
 * Bruno Cittolin Smaniotto
 * Tom van Nuenen
+* Pratik Sachdeva
+* Kelly Quinn
 
 
